@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+
+# ignore audio files
+/audio/
+
+# ignore cloned repositories
+/DeepSpeech/
+/fairseq/
+/denormalizer/
