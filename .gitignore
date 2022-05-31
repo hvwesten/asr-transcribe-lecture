@@ -3,3 +3,7 @@
 # ignore data
 data/
 
+# ignore kenlm
+kenlm/
+mlruns/
+output/
