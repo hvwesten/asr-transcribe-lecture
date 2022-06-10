@@ -2,7 +2,7 @@
 
 This is the repository of our ASR project where we try to transcribe 
 lectures using the Wav2Vec2 model from HuggingFace. 
----
+
 
 ### Requirements
 
