@@ -8,7 +8,7 @@ lectures using the Wav2Vec2 model from HuggingFace.
 
 You can create a conda environment with the required packages by executing
 ```bash
-conda create -n asr-transcribe-lectures --file env.yml
+conda env create -f env.yml
 ```
 You will also need to install `pyctcdecode` and `kenlm` to run the code for 
 creating a language model.
